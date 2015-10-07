@@ -57,4 +57,4 @@ Having that in mind, in my opinion you have three alternatives here:
 3. If you are one of those who like to have strict control over the backend implementation, I suggest you to try **Strongloop**.
     - [Strongloop](http://bit.ly/1d0A2Y0) is a perfect solution if you need full control and custom functionalities on your backend. Basically is a platform that enables you to easily (I would say VERY easily) build custom API’s for your backend needs. (This is the solution I use for my clients production apps).
 
-**Community Experiment:** I would love to know what amazing app are you planning on building. If you have a moment please answer [these](http://bit.ly/1LTn3XC) questions so i can guide you on finding what you are looking for.
+**Further reading:** Find awesome tutorials, design inspiration and ready made ionic themes, starter apps and components in the page i'm currently working on: [Ionic Themes](https://ionicthemes.com).
